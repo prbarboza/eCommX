@@ -232,8 +232,8 @@ h6,
     }
 
     .carousel-caption h1 {
-        font-size: 30px;
-        font-weight: 600 !important;
+        font-size: 24px;
+        font-weight: 500 !important;
     }
 }
 
@@ -493,4 +493,10 @@ h6,
 
 html {
   scroll-behavior: auto !important;
+}
+
+.carousel-caption h1 {
+    font-size: 40px !important; /* diminui o tamanho padrão (pode ajustar para 42px, 40px etc.) */
+    font-weight: 700 !important; /* mantém o negrito bonito */
+    line-height: 1.2; /* melhora o espaçamento entre linhas */
 }
