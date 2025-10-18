@@ -62,26 +62,26 @@
 h1,
 h2,
 .fw-bold {
-    font-weight: 700 !important;
+    font-weight: 800 !important;
 }
 
 h3,
 h4,
 .fw-semi-bold {
-    font-weight: 600 !important;
+    font-weight: 700 !important;
 }
 
 h5,
 h6,
 .fw-medium {
-    font-weight: 500 !important;
+    font-weight: 600 !important;
 }
 
 
 /*** Button ***/
 .btn {
     font-family: 'Nunito', sans-serif;
-    font-weight: 500;
+    font-weight: 600;
     transition: .5s;
 }
 
