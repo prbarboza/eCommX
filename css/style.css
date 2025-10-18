@@ -227,13 +227,13 @@ h6,
 
 @media (max-width: 576px) {
     .carousel-caption h5 {
-        font-size: 14px;
+        font-size: 10px;
         font-weight: 500 !important;
     }
 
     .carousel-caption h1 {
-        font-size: 20px;
-        font-weight: 500 !important;
+        font-size: 24px;
+        font-weight: 600 !important;
     }
 }
 
@@ -488,43 +488,5 @@ h6,
 @media (min-width: 767.98px) {
     .footer-about {
         margin-bottom: -75px;
-    }
-}
-
-html {
-  scroll-behavior: auto !important;
-}
-
-.carousel-caption h1 {
-    font-size: 40px !important; /* diminui o tamanho padrão (pode ajustar para 42px, 40px etc.) */
-    font-weight: 700 !important; /* mantém o negrito bonito */
-    line-height: 1.2; /* melhora o espaçamento entre linhas */
-}
-
-/* Ajuste responsivo do banner/carrossel */
-
-/* Desktop */
-.carousel-caption h1 {
-    font-size: 40px !important;
-    font-weight: 700 !important;
-    line-height: 1.2;
-}
-
-/* Tablet */
-@media (max-width: 992px) {
-    .carousel-caption h1 {
-        font-size: 28px !important;
-    }
-}
-
-/* Celular */
-@media (max-width: 576px) {
-    .carousel-caption h1 {
-        font-size: 18px !important;
-        line-height: 1.1;
-    }
-
-    .carousel-caption h5 {
-        font-size: 14px !important;
     }
 }
