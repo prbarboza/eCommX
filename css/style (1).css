@@ -227,13 +227,13 @@ h6,
 
 @media (max-width: 576px) {
     .carousel-caption h5 {
-        font-size: 10px;
+        font-size: 14px;
         font-weight: 500 !important;
     }
 
     .carousel-caption h1 {
-        font-size: 20px;
-        font-weight: 400 !important;
+        font-size: 30px;
+        font-weight: 600 !important;
     }
 }
 
