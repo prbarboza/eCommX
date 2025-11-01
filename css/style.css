@@ -81,7 +81,7 @@ h6,
 /*** Button ***/
 .btn {
     font-family: 'Nunito', sans-serif;
-    font-weight: 00;
+    font-weight: 600;
     transition: .5s;
 }
 
@@ -228,11 +228,11 @@ h6,
 @media (max-width: 576px) {
     .carousel-caption h5 {
         font-size: 14px;
-        font-weight: 600 !important;
+        font-weight: 500 !important;
     }
 
     .carousel-caption h1 {
-        font-size: 20px;
+        font-size: 30px;
         font-weight: 600 !important;
     }
 }
@@ -490,4 +490,3 @@ h6,
         margin-bottom: -75px;
     }
 }
-
